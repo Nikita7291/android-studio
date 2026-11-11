@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Практический экзамен ГИБДД</string>
-    <string name="exercises_title">Экзаменационные упражнения</string>
-    <string name="exercises_subtitle">Выберите упражнение для пошагового разбора</string>
-</resources>
